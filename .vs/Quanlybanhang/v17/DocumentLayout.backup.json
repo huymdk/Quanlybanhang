@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\class\\funtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\class\\funtions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmdmchatlieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.login.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmtimkiemhd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmhoadanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmhoadanban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|c:\\users\\huy-pc\\source\\repos\\quanlybanhang\\quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmdmhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblHDBan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\quanlybanhang\\frmtimkiemhd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F7B1B68-D1FB-439E-9386-0CAA142405FB}|Quanlybanhang\\Quanlybanhang.csproj|solutionrelative:quanlybanhang\\frmtimkiemhd.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblChiTietHDBan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 240,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDMChatLieu.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMChatLieu.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmDMChatLieu.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMChatLieu.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmDMChatLieu.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAuwNAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:37.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmDMChatLieu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMChatLieu.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmDMChatLieu.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMChatLieu.cs [Design]",
+              "RelativeToolTip": "Quanlybanhang\\frmDMChatLieu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:29:36.489Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.Designer.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T20:01:33.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmLogin.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmLogin.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:55:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Funtions.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\Class\\Funtions.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\Class\\Funtions.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\Class\\Funtions.cs",
+              "RelativeToolTip": "Quanlybanhang\\Class\\Funtions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwB0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T07:07:53.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Quanlybanhang\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:25:22.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTimKiemHD.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmTimKiemHD.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmTimKiemHD.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:22:41.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmMain.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmMain.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:21:20.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\Program.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\Program.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\Program.cs",
+              "RelativeToolTip": "Quanlybanhang\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:49:50.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmMain.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmMain.cs [Design]",
+              "RelativeToolTip": "Quanlybanhang\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:21:17.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "dbo.login [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.login.sql",
+              "ToolTip": "dbo.login [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T19:58:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmTimKiemHD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmTimKiemHD.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.cs [Design]",
+              "RelativeToolTip": "Quanlybanhang\\frmTimKiemHD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T16:22:39.558Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmHoaDanBan.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmHoaDanBan.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmHoaDanBan.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmHoaDanBan.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmHoaDanBan.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAACwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:13:04.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDMHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMHangHoa.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmDMHangHoa.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmDMHangHoa.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmDMHangHoa.cs",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAuwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:22:49.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\App.config",
+              "RelativeDocumentMoniker": "Quanlybanhang\\App.config",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\App.config",
+              "RelativeToolTip": "Quanlybanhang\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAACcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-24T17:46:29.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.tblHDBan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblHDBan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblHDBan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T17:25:55.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.tblChiTietHDBan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblChiTietHDBan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_HUY_PC_SOURCE_REPOS_QUANLYBANHANG_QUANLYBANHANG_QUANLYBANHANG.MDF/True/SqlTable/dbo.tblChiTietHDBan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-24T17:26:25.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmTimKiemHD.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.Designer.cs",
+              "RelativeDocumentMoniker": "Quanlybanhang\\frmTimKiemHD.Designer.cs",
+              "ToolTip": "C:\\Users\\HUY-PC\\source\\repos\\Quanlybanhang\\Quanlybanhang\\frmTimKiemHD.Designer.cs",
+              "RelativeToolTip": "Quanlybanhang\\frmTimKiemHD.Designer.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAlwMwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:43:46.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 41,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
